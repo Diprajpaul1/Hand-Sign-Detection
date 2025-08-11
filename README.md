@@ -166,5 +166,7 @@ Sentence: HELLO
 
 📷 **Example Frame:**
 
-
+![Image](https://github.com/user-attachments/assets/bba33403-613d-42fb-b753-c225fa907497)
+![Image](https://github.com/user-attachments/assets/f3d4f756-6b75-4e25-8441-b56004666eab)
+![Image](https://github.com/user-attachments/assets/ac22df73-cdbd-4edd-a6bf-f2670eca01db)
 
