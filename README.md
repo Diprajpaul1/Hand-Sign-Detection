@@ -140,3 +140,31 @@ The model is evaluated using:
 * Mobile app version
 * Larger dataset for improved accuracy
 
+
+  Here’s how you can write the **Final Output** section for your README to clearly show what happens after detection:
+
+---
+
+## 🏁 Final Output (After Detection)
+
+When the model detects a hand sign in real-time:
+
+* A **green bounding box** is drawn around the detected hand.
+* The **predicted alphabet letter** is displayed above the box.
+* The letter is appended to the **sentence** at the top of the screen after the defined delay (`1.5 seconds`), avoiding repeated characters from continuous detection.
+
+**Example:**
+
+```
+Sentence: HELLO
+```
+
+💡 **Controls:**
+
+* **Q** → Quit the detection window
+* **C** → Remove the last character from the sentence
+
+📷 **Example Frame:**
+
+
+
