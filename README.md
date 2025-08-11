@@ -131,7 +131,7 @@ The model is evaluated using:
 ---
 ##📷 System Workflow
 
-<img width="1024" height="768" alt="Image" src="https://github.com/user-attachments/assets/20d6553f-0550-4001-adaf-e83cae412433" />
+![Image](https://github.com/user-attachments/assets/990c200e-19cf-4edf-9554-c9646be844a6)
 
 ## ✨ Future Improvements
 
